@@ -26,7 +26,7 @@ const Home = () => {
         </div>
       </div>
       <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 translate-y-1 text-center text-white">
-        <h2 className="sm:text-xl md:text-4xl lg:text-5xl font-bold">
+        <h2 className="sm:text-2xl md:text-4xl lg:text-5xl font-bold">
           SPICING UP HERSHEY, ONE TACO AT A TIME!
         </h2>
       </div>
