@@ -89,18 +89,6 @@ const Nav = () => {
               </div>
             </a>
           </li>
-          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[0px] duration-300 bg-blue-600">
-            <a
-              className="flex justify-between items-center w-full text-white text-sm"
-              target="_blank"
-              href="https://www.facebook.com/"
-            >
-              Facebook{" "}
-              <div className="pr-4">
-                <AiFillFacebook size={30} />
-              </div>
-            </a>
-          </li>
         </ul>
       </div>
 
@@ -119,18 +107,6 @@ const Nav = () => {
                 Instagram{" "}
                 <div className="pr-3">
                   <AiFillInstagram size={20} />
-                </div>
-              </a>
-            </li>
-            <li className="w-[120px] h-[40px] flex justify-between items-center ml-[-80px] hover:ml-[0px] duration-300 bg-blue-600">
-              <a
-                className="flex justify-between items-center w-full text-white text-xs"
-                target="_blank"
-                href="https://www.facebook.com/"
-              >
-                Facebook{" "}
-                <div className="pr-3">
-                  <AiFillFacebook size={20} />
                 </div>
               </a>
             </li>
