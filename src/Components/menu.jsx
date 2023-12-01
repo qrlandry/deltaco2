@@ -40,7 +40,7 @@ const Menu = () => {
             <p className="text-sm text-black">CHIPS AND SALSA $5</p>
             <p className="text-sm text-black">GUACAMOLE $3</p>
             <p className="text-xl text-red-700">EXTRAS</p>
-            <p className="text-sm text-black">CHEESE $4</p>
+            <p className="text-sm text-black">CHEESE $1</p>
             <p className="text-sm text-black">DOUBLE MEAT/ CHICKEN/PORTOBELLO $4</p>
             <p className="text-xl text-red-700">SWEET TREAT</p>
             <p className="text-sm text-black">SMALL BOX OF</p>
