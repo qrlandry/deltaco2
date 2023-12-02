@@ -4,7 +4,7 @@ const Menu = () => {
   return (
     <div
       name="Menu"
-      className="w-full h-screen bg-gradient-to-b from-red-400 to-white z-0 flex items-center"
+      className="w-full min-h-screen bg-gradient-to-b from-red-400 to-white z-0 flex items-center"
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col text-center">
         <div className="pb-8">

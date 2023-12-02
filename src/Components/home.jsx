@@ -7,8 +7,8 @@ import { Link } from "react-scroll";
 const Home = () => {
   return (
     <div name="Home" className="h-screen relative overflow-hidden">
-      <div className="absolute top-20 left-0 w-full h-full bg-gradient-to-t from-red-500 to-white z-0"></div>
-      <div className="absolute top-20 left-0 w-full h-3/5">
+      <div className="absolute top-0 left-0 w-full h-full bg-gradient-to-t from-red-500 to-white z-0"></div>
+      <div className="absolute top-0 left-0 w-full h-3/5">
         <img
           src={DelBackground}
           alt="background"
@@ -16,20 +16,19 @@ const Home = () => {
         />
       </div>
 
-      <div className="h-1/2 flex items-center justify-center text-white">
-        <div className="rounded-full overflow-hidden w-32 h-32 md:w-48 md:h-48 lg:w-48 lg:h-48 absolute top-60 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
+      <div className="h-1/2 flex flex-col justify-center items-center text-white absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2" style={{ top: '250px' }}>
+        <div className="rounded-full overflow-hidden w-32 h-32 md:w-45 md:h-45 lg:w-46 lg:h-46 mb-4" >
           <img
             src={DelLogo}
             alt="logo"
             className="w-full h-full object-cover"
           />
         </div>
-      </div>
-      <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 translate-y-1 text-center text-white">
-        <h2 className="sm:text-2xl md:text-4xl lg:text-5xl font-bold">
+        <h2 className="text-center sm:text-2xl md:text-4xl lg:text-5xl font-bold">
           SPICING UP HERSHEY, ONE TACO AT A TIME!
         </h2>
       </div>
+
       <div className="absolute bottom-10 left-1/2 transform -translate-x-1/2 text-center text-white">
         <Link
           to="Menu"
