@@ -81,7 +81,7 @@ const Nav = () => {
             <a
               className="flex justify-between items-center w-full text-white text-sm"
               target="_blank"
-              href="https://www.instagram.com/deltacohershey/?igshid=MzMyNGUyNmU2YQ%3D%3D"
+              href="https://www.instagram.com/delvestacohershey?igsh=MW0xbHZya3dla2Z2Zg=="
             >
               Instagram{" "}
               <div className="pr-4">
@@ -114,7 +114,7 @@ const Nav = () => {
               <a
                 className="flex justify-between items-center w-full text-white text-[10px]"
                 target="_blank"
-                href="https://www.instagram.com/deltacohershey/?igshid=MzMyNGUyNmU2YQ%3D%3D"
+                href="https://www.instagram.com/delvestacohershey?igsh=MW0xbHZya3dla2Z2Zg=="
               >
                 Instagram{" "}
                 <div className="pr-3">
