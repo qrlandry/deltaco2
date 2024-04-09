@@ -16,7 +16,7 @@ const Contact = () => {
           </p>
           <p className="text-red-700 py-4">
             {" "}
-            // Submit the form below or email/call at studelves@deltacohershey.com 347-280-9640{" "}
+            // Submit the form below or email/call at delvestacohershey@gmail.com (717)-649-8786{" "}
           </p>
         </div>
         <input

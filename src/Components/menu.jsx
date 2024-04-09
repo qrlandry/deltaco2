@@ -16,18 +16,22 @@ const Menu = () => {
         <div>
           <div className="bg-[#e7af00] rounded-lg p-6 shadow-lg max-w-screen-lg flex-1">
             <p className="text-xl text-red-700">
-              BREAKFAST TACOS $8 for 2
+              BREAKFAST TACOS $9 for 2
             </p>
             <p className="text-xs text-black">
               Egg, Chorizo and Cheese Ham, egg and cheese. Served with Salsa
             </p>
             <p className="text-xl text-red-700">LOADED NACHOS $10</p>
             <p className="text-xs text-black">House made chips with Choice of meat, cheese, salsa</p>
+            <p className="text-xl text-red-700">EMPANADAS $10 for 2</p>
             <p className="text-xl text-red-700">
-              LUNCH/DINNER TACOS $10 for 3
+              LUNCH/DINNER TACOS $11 for 3
             </p>
             <p className="text-sm text-black">
-              BEEF, PORK, CHICKEN, STEAK. CHORIZO, THE RANCH(chorizo and beef combined), PORTOBELLO
+              BEEF, PORK, CHICKEN, STEAK. CHORIZO, THE RANCH(chorizo and beef combined), OYSTER MUSHROOM
+            </p>
+            <p className="text-xl text-red-700">
+              FISH TACOS $12 for 3
             </p>
             <p className="text-xs text-red-700">
               *all tacos served with Onion, Cilantro and Salsa and a side of
@@ -39,15 +43,17 @@ const Menu = () => {
             <p className="text-sm text-black">PINTO BEANS $2</p>
             <p className="text-sm text-black">CHIPS AND SALSA $5</p>
             <p className="text-sm text-black">GUACAMOLE $3</p>
+            <p className="text-sm text-black">QUESO CHORIZO & CHIPS $8</p>
             <p className="text-xl text-red-700">EXTRAS</p>
             <p className="text-sm text-black">CHEESE $1</p>
-            <p className="text-sm text-black">DOUBLE MEAT/ CHICKEN/PORTOBELLO $4</p>
+            <p className="text-sm text-black">DOUBLE MEAT $4</p>
+            <p className="text-sm text-black">KIDS MEAL(cheese quesadilla & chips) $5</p>
             <p className="text-xl text-red-700">SWEET TREAT</p>
             <p className="text-sm text-black">SMALL BOX OF</p>
             <p className="text-sm text-black">CHURROS WITH</p>
             <p className="text-sm text-black">NUTELLA $5</p>
             <p className="text-xl text-red-700">DRINKS</p>
-            <p className="text-sm text-black">SODA $4</p>
+            <p className="text-sm text-black">SODA $2</p>
             <p className="text-sm text-black">WATER $2</p>
           </div>
         </div>
