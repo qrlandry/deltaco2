@@ -30,12 +30,12 @@ const Menu = () => {
             <p className="text-sm text-black">
               BEEF, PORK, CHICKEN, STEAK. CHORIZO, THE RANCH(chorizo and beef combined), OYSTER MUSHROOM
             </p>
-            <p className="text-xl text-red-700">
-              FISH TACOS $12 for 3
-            </p>
             <p className="text-xs text-red-700">
               *all tacos served with Onion, Cilantro and Salsa and a side of
               Beans
+            </p>
+            <p className="text-xl text-red-700">
+              FISH TACOS $12 for 3
             </p>
           </div>
           <div className="bg-[#e7af00] rounded-lg p-6 shadow-lg max-w-screen-lg flex-1">
